@@ -1,5 +1,5 @@
-from os import environ, makedirs
-environ['SCRAPERWIKI_DATABASE_NAME'] = 'sqlite:///data.sqlite'
+import os
+os.environ['SCRAPERWIKI_DATABASE_NAME'] = 'sqlite:///data.sqlite'
 import scraperwiki
 import requests
 from lxml import html
@@ -76,7 +76,7 @@ class CodesGetter():
 
 def run():
     codes_groups = CodesGetter(doc_crs_codes).codes
-    makedirs("output", exist_ok=True)
+    os.makedirs("output", exist_ok=True)
     with open(os.path.join("output", "sectors_groups.csv"), 'w') as csv_f:
         csvwriter = csv.DictWriter(csv_f, fieldnames=[
             'group_code', 'group_name',
