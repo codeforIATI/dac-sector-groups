@@ -1,231 +1,231 @@
-group_code,group_name,category_code,category_name,code,name
-110,Education,111,"Education, Level Unspecified",11110,Education policy and administrative management
-110,Education,111,"Education, Level Unspecified",11120,Education facilities and training
-110,Education,111,"Education, Level Unspecified",11130,Teacher training
-110,Education,111,"Education, Level Unspecified",11182,Educational research
-110,Education,112,Basic Education,11220,Primary education
-110,Education,112,Basic Education,11230,Basic life skills for youth and adults
-110,Education,112,Basic Education,11240,Early childhood education
-110,Education,112,Basic Education,11250,School feeding
-110,Education,113,Secondary Education,11320,Secondary education
-110,Education,113,Secondary Education,11330,Vocational training
-110,Education,114,Post-Secondary Education,11420,Higher education
-110,Education,114,Post-Secondary Education,11430,Advanced technical and managerial training
-120,Health,121,"Health, General",12110,Health policy and administrative management
-120,Health,121,"Health, General",12181,Medical education/training
-120,Health,121,"Health, General",12182,Medical research
-120,Health,121,"Health, General",12191,Medical services
-120,Health,122,Basic Health,12220,Basic health care
-120,Health,122,Basic Health,12230,Basic health infrastructure
-120,Health,122,Basic Health,12240,Basic nutrition
-120,Health,122,Basic Health,12250,Infectious disease control
-120,Health,122,Basic Health,12261,Health education
-120,Health,122,Basic Health,12262,Malaria control
-120,Health,122,Basic Health,12263,Tuberculosis control
-120,Health,122,Basic Health,12281,Health personnel development
-120,Health,123,Non-communicable diseases (NCDs),12310,"NCDs control, general"
-120,Health,123,Non-communicable diseases (NCDs),12320,Tobacco use control
-120,Health,123,Non-communicable diseases (NCDs),12330,Control of harmful use of alcohol and drugs
-120,Health,123,Non-communicable diseases (NCDs),12340,Promotion of mental health and well-being 
-120,Health,123,Non-communicable diseases (NCDs),12350,Other prevention and treatment of NCDs
-120,Health,123,Non-communicable diseases (NCDs),12382,Research for prevention and control of NCDs
-130,Population Policies/Programmes & Reproductive Health,130,Population Policies/Programmes & Reproductive Health,13010,Population policy and administrative management
-130,Population Policies/Programmes & Reproductive Health,130,Population Policies/Programmes & Reproductive Health,13020,Reproductive health care
-130,Population Policies/Programmes & Reproductive Health,130,Population Policies/Programmes & Reproductive Health,13030,Family planning
-130,Population Policies/Programmes & Reproductive Health,130,Population Policies/Programmes & Reproductive Health,13040,STD control including HIV/AIDS
-130,Population Policies/Programmes & Reproductive Health,130,Population Policies/Programmes & Reproductive Health,13081,Personnel development for population and reproductive health
-140,Water Supply & Sanitation,140,Water Supply & Sanitation,14010,Water sector policy and administrative management
-140,Water Supply & Sanitation,140,Water Supply & Sanitation,14015,Water resources conservation (including data collection)
-140,Water Supply & Sanitation,140,Water Supply & Sanitation,14020,Water supply and sanitation - large systems
-140,Water Supply & Sanitation,140,Water Supply & Sanitation,14021,Water supply - large systems
-140,Water Supply & Sanitation,140,Water Supply & Sanitation,14022,Sanitation - large systems
-140,Water Supply & Sanitation,140,Water Supply & Sanitation,14030,Basic drinking water supply and basic sanitation
-140,Water Supply & Sanitation,140,Water Supply & Sanitation,14031,Basic drinking water supply
-140,Water Supply & Sanitation,140,Water Supply & Sanitation,14032,Basic sanitation
-140,Water Supply & Sanitation,140,Water Supply & Sanitation,14040,River basins development
-140,Water Supply & Sanitation,140,Water Supply & Sanitation,14050,Waste management/disposal
-140,Water Supply & Sanitation,140,Water Supply & Sanitation,14081,Education and training in water supply and sanitation
-150,Government & Civil Society,151,Government & Civil Society-general,15110,Public sector policy and administrative management
-150,Government & Civil Society,151,Government & Civil Society-general,15111,Public finance management (PFM)
-150,Government & Civil Society,151,Government & Civil Society-general,15112,Decentralisation and support to subnational government
-150,Government & Civil Society,151,Government & Civil Society-general,15113,Anti-corruption organisations and institutions
-150,Government & Civil Society,151,Government & Civil Society-general,15114,Domestic revenue mobilisation
-150,Government & Civil Society,151,Government & Civil Society-general,15125,Public Procurement
-150,Government & Civil Society,151,Government & Civil Society-general,15130,Legal and judicial development
-150,Government & Civil Society,151,Government & Civil Society-general,15142,Macroeconomic policy
-150,Government & Civil Society,151,Government & Civil Society-general,15150,Democratic participation and civil society
-150,Government & Civil Society,151,Government & Civil Society-general,15151,Elections
-150,Government & Civil Society,151,Government & Civil Society-general,15152,Legislatures and political parties
-150,Government & Civil Society,151,Government & Civil Society-general,15153,Media and free flow of information
-150,Government & Civil Society,151,Government & Civil Society-general,15160,Human rights
-150,Government & Civil Society,151,Government & Civil Society-general,15170,"Women's rights organisations and movements, and government institutions"
-150,Government & Civil Society,151,Government & Civil Society-general,15180,Ending violence against women and girls
-150,Government & Civil Society,151,Government & Civil Society-general,15190,"Facilitation of orderly, safe, regular and responsible migration and mobility"
-150,Government & Civil Society,152,"Conflict, Peace & Security",15210,Security system management and reform
-150,Government & Civil Society,152,"Conflict, Peace & Security",15220,"Civilian peace-building, conflict prevention and resolution"
-150,Government & Civil Society,152,"Conflict, Peace & Security",15230,Participation in international peacekeeping operations
-150,Government & Civil Society,152,"Conflict, Peace & Security",15240,Reintegration and SALW control
-150,Government & Civil Society,152,"Conflict, Peace & Security",15250,Removal of land mines and explosive remnants of war
-150,Government & Civil Society,152,"Conflict, Peace & Security",15261,Child soldiers (prevention and demobilisation)
-160,Other Social Infrastructure & Services,160,Other Social Infrastructure & Services,16010,Social Protection
-160,Other Social Infrastructure & Services,160,Other Social Infrastructure & Services,16020,Employment creation
-160,Other Social Infrastructure & Services,160,Other Social Infrastructure & Services,16030,Housing policy and administrative management
-160,Other Social Infrastructure & Services,160,Other Social Infrastructure & Services,16040,Low-cost housing
-160,Other Social Infrastructure & Services,160,Other Social Infrastructure & Services,16050,Multisector aid for basic social services
-160,Other Social Infrastructure & Services,160,Other Social Infrastructure & Services,16061,Culture and recreation
-160,Other Social Infrastructure & Services,160,Other Social Infrastructure & Services,16062,Statistical capacity building
-160,Other Social Infrastructure & Services,160,Other Social Infrastructure & Services,16063,Narcotics control
-160,Other Social Infrastructure & Services,160,Other Social Infrastructure & Services,16064,Social mitigation of HIV/AIDS
-160,Other Social Infrastructure & Services,160,Other Social Infrastructure & Services,16070,Labour rights
-160,Other Social Infrastructure & Services,160,Other Social Infrastructure & Services,16080,Social dialogue
-210,Transport & Storage,210,Transport & Storage,21010,Transport policy and administrative management
-210,Transport & Storage,210,Transport & Storage,21020,Road transport
-210,Transport & Storage,210,Transport & Storage,21030,Rail transport
-210,Transport & Storage,210,Transport & Storage,21040,Water transport
-210,Transport & Storage,210,Transport & Storage,21050,Air transport
-210,Transport & Storage,210,Transport & Storage,21061,Storage
-210,Transport & Storage,210,Transport & Storage,21081,Education and training in transport and storage
-220,Communications,220,Communications,22010,Communications policy and administrative management
-220,Communications,220,Communications,22020,Telecommunications
-220,Communications,220,Communications,22030,Radio/television/print media
-220,Communications,220,Communications,22040,Information and communication technology (ICT)
-230,Energy,231,Energy Policy,23110,Energy policy and administrative management
-230,Energy,231,Energy Policy,23181,Energy education/training
-230,Energy,231,Energy Policy,23182,Energy research
-230,Energy,231,Energy Policy,23183,Energy conservation and demand-side efficiency
-230,Energy,232,"Energy generation, renewable sources",23210,"Energy generation, renewable sources - multiple technologies"
-230,Energy,232,"Energy generation, renewable sources",23220,Hydro-electric power plants
-230,Energy,232,"Energy generation, renewable sources",23230,Solar energy for centralised grids
-230,Energy,232,"Energy generation, renewable sources",23231,Solar energy for isolated grids and standalone systems
-230,Energy,232,"Energy generation, renewable sources",23232,Solar energy - thermal applications
-230,Energy,232,"Energy generation, renewable sources",23240,Wind energy
-230,Energy,232,"Energy generation, renewable sources",23250,Marine energy
-230,Energy,232,"Energy generation, renewable sources",23260,Geothermal energy
-230,Energy,232,"Energy generation, renewable sources",23270,Biofuel-fired power plants
-230,Energy,233,"Energy generation, non-renewable sources",23310,"Energy generation, non-renewable sources, unspecified"
-230,Energy,233,"Energy generation, non-renewable sources",23320,Coal-fired electric power plants
-230,Energy,233,"Energy generation, non-renewable sources",23330,Oil-fired electric power plants
-230,Energy,233,"Energy generation, non-renewable sources",23340,Natural gas-fired electric power plants
-230,Energy,233,"Energy generation, non-renewable sources",23350,Fossil fuel electric power plants with carbon capture and storage (CCS)
-230,Energy,233,"Energy generation, non-renewable sources",23360,Non-renewable waste-fired electric power plants
-230,Energy,234,Hybrid energy plants,23410,Hybrid energy electric power plants
-230,Energy,235,Nuclear energy plants,23510,Nuclear energy electric power plants and nuclear safety
-230,Energy,236,Energy distribution,23610,Heat plants
-230,Energy,236,Energy distribution,23620,District heating and cooling
-230,Energy,236,Energy distribution,23630,Electric power transmission and distribution (centralised grids)
-230,Energy,236,Energy distribution,23631,Electric power transmission and distribution (isolated mini-grids)
-230,Energy,236,Energy distribution,23640,Retail gas distribution
-230,Energy,236,Energy distribution,23641,Retail distribution of liquid or solid fossil fuels
-230,Energy,236,Energy distribution,23642,Electric mobility infrastructures
-240,Banking & Financial Services,240,Banking & Financial Services,24010,Financial policy and administrative management
-240,Banking & Financial Services,240,Banking & Financial Services,24020,Monetary institutions
-240,Banking & Financial Services,240,Banking & Financial Services,24030,Formal sector financial intermediaries
-240,Banking & Financial Services,240,Banking & Financial Services,24040,Informal/semi-formal financial intermediaries
-240,Banking & Financial Services,240,Banking & Financial Services,24050,"Remittance facilitation, promotion and optimisation"
-240,Banking & Financial Services,240,Banking & Financial Services,24081,Education/training in banking and financial services
-250,Business & Other Services,250,Business & Other Services,25010,Business policy and administration
-250,Business & Other Services,250,Business & Other Services,25020,Privatisation
-250,Business & Other Services,250,Business & Other Services,25030,Business development services
-250,Business & Other Services,250,Business & Other Services,25040,Responsible business conduct
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31110,Agricultural policy and administrative management
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31120,Agricultural development
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31130,Agricultural land resources
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31140,Agricultural water resources
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31150,Agricultural inputs
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31161,Food crop production
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31162,Industrial crops/export crops
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31163,Livestock
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31164,Agrarian reform
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31165,Agricultural alternative development
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31166,Agricultural extension
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31181,Agricultural education/training
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31182,Agricultural research
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31191,Agricultural services
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31192,Plant and post-harvest protection and pest control
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31193,Agricultural financial services
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31194,Agricultural co-operatives
-310,"Agriculture, Forestry, Fishing",311,Agriculture,31195,Livestock/veterinary services
-310,"Agriculture, Forestry, Fishing",312,Forestry,31210,Forestry policy and administrative management
-310,"Agriculture, Forestry, Fishing",312,Forestry,31220,Forestry development
-310,"Agriculture, Forestry, Fishing",312,Forestry,31261,Fuelwood/charcoal
-310,"Agriculture, Forestry, Fishing",312,Forestry,31281,Forestry education/training
-310,"Agriculture, Forestry, Fishing",312,Forestry,31282,Forestry research
-310,"Agriculture, Forestry, Fishing",312,Forestry,31291,Forestry services
-310,"Agriculture, Forestry, Fishing",313,Fishing,31310,Fishing policy and administrative management
-310,"Agriculture, Forestry, Fishing",313,Fishing,31320,Fishery development
-310,"Agriculture, Forestry, Fishing",313,Fishing,31381,Fishery education/training
-310,"Agriculture, Forestry, Fishing",313,Fishing,31382,Fishery research
-310,"Agriculture, Forestry, Fishing",313,Fishing,31391,Fishery services
-320,"Industry, Mining, Construction",321,Industry,32110,Industrial policy and administrative management
-320,"Industry, Mining, Construction",321,Industry,32120,Industrial development
-320,"Industry, Mining, Construction",321,Industry,32130,Small and medium-sized enterprises (SME) development
-320,"Industry, Mining, Construction",321,Industry,32140,Cottage industries and handicraft
-320,"Industry, Mining, Construction",321,Industry,32161,Agro-industries
-320,"Industry, Mining, Construction",321,Industry,32162,Forest industries
-320,"Industry, Mining, Construction",321,Industry,32163,"Textiles, leather and substitutes"
-320,"Industry, Mining, Construction",321,Industry,32164,Chemicals
-320,"Industry, Mining, Construction",321,Industry,32165,Fertilizer plants
-320,"Industry, Mining, Construction",321,Industry,32166,Cement/lime/plaster
-320,"Industry, Mining, Construction",321,Industry,32167,Energy manufacturing (fossil fuels)
-320,"Industry, Mining, Construction",321,Industry,32168,Pharmaceutical production
-320,"Industry, Mining, Construction",321,Industry,32169,Basic metal industries
-320,"Industry, Mining, Construction",321,Industry,32170,Non-ferrous metal industries
-320,"Industry, Mining, Construction",321,Industry,32171,Engineering
-320,"Industry, Mining, Construction",321,Industry,32172,Transport equipment industry
-320,"Industry, Mining, Construction",321,Industry,32173,Modern biofuels manufacturing
-320,"Industry, Mining, Construction",321,Industry,32174,Clean cooking appliances manufacturing
-320,"Industry, Mining, Construction",321,Industry,32182,Technological research and development
-320,"Industry, Mining, Construction",322,Mineral Resources & Mining,32210,Mineral/mining policy and administrative management
-320,"Industry, Mining, Construction",322,Mineral Resources & Mining,32220,Mineral prospection and exploration
-320,"Industry, Mining, Construction",322,Mineral Resources & Mining,32261,Coal
-320,"Industry, Mining, Construction",322,Mineral Resources & Mining,32262,Oil and gas (upstream)
-320,"Industry, Mining, Construction",322,Mineral Resources & Mining,32263,Ferrous metals
-320,"Industry, Mining, Construction",322,Mineral Resources & Mining,32264,Nonferrous metals
-320,"Industry, Mining, Construction",322,Mineral Resources & Mining,32265,Precious metals/materials
-320,"Industry, Mining, Construction",322,Mineral Resources & Mining,32266,Industrial minerals
-320,"Industry, Mining, Construction",322,Mineral Resources & Mining,32267,Fertilizer minerals
-320,"Industry, Mining, Construction",322,Mineral Resources & Mining,32268,Offshore minerals
-320,"Industry, Mining, Construction",323,Construction,32310,Construction policy and administrative management
-331,Trade Policies & Regulations,331,Trade Policies & Regulations,33110,Trade policy and administrative management
-331,Trade Policies & Regulations,331,Trade Policies & Regulations,33120,Trade facilitation
-331,Trade Policies & Regulations,331,Trade Policies & Regulations,33130,Regional trade agreements (RTAs)
-331,Trade Policies & Regulations,331,Trade Policies & Regulations,33140,Multilateral trade negotiations
-331,Trade Policies & Regulations,331,Trade Policies & Regulations,33150,Trade-related adjustment
-331,Trade Policies & Regulations,331,Trade Policies & Regulations,33181,Trade education/training
-332,Tourism,332,Tourism,33210,Tourism policy and administrative management
-410,General Environment Protection,410,General Environment Protection,41010,Environmental policy and administrative management
-410,General Environment Protection,410,General Environment Protection,41020,Biosphere protection
-410,General Environment Protection,410,General Environment Protection,41030,Biodiversity
-410,General Environment Protection,410,General Environment Protection,41040,Site preservation
-410,General Environment Protection,410,General Environment Protection,41081,Environmental education/training
-410,General Environment Protection,410,General Environment Protection,41082,Environmental research
-430,Other Multisector,430,Other Multisector,43010,Multisector aid
-430,Other Multisector,430,Other Multisector,43030,Urban development and management
-430,Other Multisector,430,Other Multisector,43040,Rural development
-430,Other Multisector,430,Other Multisector,43050,Non-agricultural alternative development
-430,Other Multisector,430,Other Multisector,43060,Disaster Risk Reduction
-430,Other Multisector,430,Other Multisector,43071,Food security policy and administrative management
-430,Other Multisector,430,Other Multisector,43072,Household food security programmes
-430,Other Multisector,430,Other Multisector,43073,Food safety and quality
-430,Other Multisector,430,Other Multisector,43081,Multisector education/training
-430,Other Multisector,430,Other Multisector,43082,Research/scientific institutions
-510,General Budget Support,510,General Budget Support,51010,General budget support-related aid
-520,Development Food Assistance,520,Development Food Assistance,52010,Food assistance
-530,Other Commodity Assistance,530,Other Commodity Assistance,53030,Import support (capital goods)
-530,Other Commodity Assistance,530,Other Commodity Assistance,53040,Import support (commodities)
-600,Action Relating to Debt,600,Action Relating to Debt,60010,Action relating to debt
-600,Action Relating to Debt,600,Action Relating to Debt,60020,Debt forgiveness
-600,Action Relating to Debt,600,Action Relating to Debt,60030,Relief of multilateral debt
-600,Action Relating to Debt,600,Action Relating to Debt,60040,Rescheduling and refinancing
-600,Action Relating to Debt,600,Action Relating to Debt,60061,Debt for development swap
-600,Action Relating to Debt,600,Action Relating to Debt,60062,Other debt swap
-600,Action Relating to Debt,600,Action Relating to Debt,60063,Debt buy-back
-720,Emergency Response,720,Emergency Response,72010,Material relief assistance and services
-720,Emergency Response,720,Emergency Response,72040,Emergency food assistance
-720,Emergency Response,720,Emergency Response,72050,Relief co-ordination and support services
-730,Reconstruction Relief & Rehabilitation,730,Reconstruction Relief & Rehabilitation,73010,Immediate post-emergency reconstruction and rehabilitation
-740,Disaster Prevention & Preparedness,740,Disaster Prevention & Preparedness,74020,Multi-hazard response preparedness
-910,Administrative Costs of Donors,910,Administrative Costs of Donors,91010,Administrative costs (non-sector allocable)
-930,Refugees in Donor Countries,930,Refugees in Donor Countries,93010,Refugees/asylum seekers  in donor countries (non-sector allocable)
-998,Unallocated / Unspecified,998,Unallocated / Unspecified,99810,Sectors not specified
-998,Unallocated / Unspecified,998,Unallocated / Unspecified,99820,Promotion of development awareness (non-sector allocable)
+code,name_en,name_fr,category_code,category_name_en,category_name_fr,sector_code,sector_name_en,sector_name_fr
+110,Education,Education,111,"Education, Level Unspecified","Education, Niveau non spécifié",11110,Education policy and administrative management,Politique de l'éducation et gestion administrative
+110,Education,Education,111,"Education, Level Unspecified","Education, Niveau non spécifié",11120,Education facilities and training,Equipements scolaires et formation
+110,Education,Education,111,"Education, Level Unspecified","Education, Niveau non spécifié",11130,Teacher training,Formation des enseignants
+110,Education,Education,111,"Education, Level Unspecified","Education, Niveau non spécifié",11182,Educational research,Recherche en éducation
+110,Education,Education,112,Basic Education,Education de Base,11220,Primary education,Enseignement primaire
+110,Education,Education,112,Basic Education,Education de Base,11230,Basic life skills for youth and adults,Education pour une meilleure qualité de vie pour les jeunes et les adultes
+110,Education,Education,112,Basic Education,Education de Base,11240,Early childhood education,Education de la petite enfance
+110,Education,Education,112,Basic Education,Education de Base,11250,School feeding,Alimentation à l'école
+110,Education,Education,113,Secondary Education,Education Secondaire,11320,Secondary education,Enseignement secondaire
+110,Education,Education,113,Secondary Education,Education Secondaire,11330,Vocational training,Formation professionnelle
+110,Education,Education,114,Post-Secondary Education,Education Post Secondaire,11420,Higher education,Enseignement supérieur
+110,Education,Education,114,Post-Secondary Education,Education Post Secondaire,11430,Advanced technical and managerial training,Formation technique supérieure de gestion
+120,Health,Santé,121,"Health, General","Santé, Général",12110,Health policy and administrative management,Politique de la santé et gestion administrative
+120,Health,Santé,121,"Health, General","Santé, Général",12181,Medical education/training,Education et formation médicales
+120,Health,Santé,121,"Health, General","Santé, Général",12182,Medical research,Recherche médicale
+120,Health,Santé,121,"Health, General","Santé, Général",12191,Medical services,Services médicaux
+120,Health,Santé,122,Basic Health,Santé de Base,12220,Basic health care,Soins et services de santé de base
+120,Health,Santé,122,Basic Health,Santé de Base,12230,Basic health infrastructure,Infrastructure pour la santé de base
+120,Health,Santé,122,Basic Health,Santé de Base,12240,Basic nutrition,Nutrition de base
+120,Health,Santé,122,Basic Health,Santé de Base,12250,Infectious disease control,Lutte contre les maladies infectieuses
+120,Health,Santé,122,Basic Health,Santé de Base,12261,Health education,Education sanitaire
+120,Health,Santé,122,Basic Health,Santé de Base,12262,Malaria control,Lutte contre le paludisme
+120,Health,Santé,122,Basic Health,Santé de Base,12263,Tuberculosis control,Lutte contre la tuberculose
+120,Health,Santé,122,Basic Health,Santé de Base,12281,Health personnel development,Formation de personnel de santé
+120,Health,Santé,123,Non-communicable diseases (NCDs),Maladies non-transmissibles (MNT),12310,"NCDs control, general","Lutte contre les MNT, général"
+120,Health,Santé,123,Non-communicable diseases (NCDs),Maladies non-transmissibles (MNT),12320,Tobacco use control,Lutte contre l'usage du tabac
+120,Health,Santé,123,Non-communicable diseases (NCDs),Maladies non-transmissibles (MNT),12330,Control of harmful use of alcohol and drugs,Lutte contre l'usage nocif de l'alcool et des drogues
+120,Health,Santé,123,Non-communicable diseases (NCDs),Maladies non-transmissibles (MNT),12340,Promotion of mental health and well-being ,Promotion de la santé mentale et du bien-être
+120,Health,Santé,123,Non-communicable diseases (NCDs),Maladies non-transmissibles (MNT),12350,Other prevention and treatment of NCDs,Autre prévention et traitement des MNT
+120,Health,Santé,123,Non-communicable diseases (NCDs),Maladies non-transmissibles (MNT),12382,Research for prevention and control of NCDs,Recherche pour la prévention et le contrôle des MNT
+130,Population Policies/Programmes & Reproductive Health,Politique en Matière de Population/Santé&Fertilité,130,Population Policies/Programmes & Reproductive Health,Politique en Matière de Population/Santé&Fertilité,13010,Population policy and administrative management,Politique/programmes en matière de population et gestion administrative
+130,Population Policies/Programmes & Reproductive Health,Politique en Matière de Population/Santé&Fertilité,130,Population Policies/Programmes & Reproductive Health,Politique en Matière de Population/Santé&Fertilité,13020,Reproductive health care,Soins en matière de fertilité
+130,Population Policies/Programmes & Reproductive Health,Politique en Matière de Population/Santé&Fertilité,130,Population Policies/Programmes & Reproductive Health,Politique en Matière de Population/Santé&Fertilité,13030,Family planning,Planification familiale
+130,Population Policies/Programmes & Reproductive Health,Politique en Matière de Population/Santé&Fertilité,130,Population Policies/Programmes & Reproductive Health,Politique en Matière de Population/Santé&Fertilité,13040,STD control including HIV/AIDS,Lutte contre les MST et VIH/sida
+130,Population Policies/Programmes & Reproductive Health,Politique en Matière de Population/Santé&Fertilité,130,Population Policies/Programmes & Reproductive Health,Politique en Matière de Population/Santé&Fertilité,13081,Personnel development for population and reproductive health,Formation de personnel en matière de population et de santé et fertilité
+140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,14010,Water sector policy and administrative management,Politique et gestion administrative du secteur de l'eau
+140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,14015,Water resources conservation (including data collection),Préservation des ressources en eau (y compris collecte de données)
+140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,14020,Water supply and sanitation - large systems,Approvisionnement en eau et assainissement - systèmes à grande échelle
+140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,14021,Water supply - large systems,Approvisionnement en eau – systèmes à grande échelle
+140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,14022,Sanitation - large systems,Assainissement - systèmes à grande échelle
+140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,14030,Basic drinking water supply and basic sanitation,Approvisionnement en eau potable et assainissement - dispositifs de base
+140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,14031,Basic drinking water supply,Approvisionnement en eau potable – dispositifs de base
+140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,14032,Basic sanitation,Assainissement - dispositifs de base
+140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,14040,River basins development,Aménagement de bassins fluviaux
+140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,14050,Waste management/disposal,Traitement des déchets
+140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,140,Water Supply & Sanitation,Distribution d'Eau et Assainissement,14081,Education and training in water supply and sanitation,Education et formation dans la distribution d'eau et d'assainissement
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15110,Public sector policy and administrative management,Politiques publiques et gestion administrative
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15111,Public finance management (PFM),Gestion des finances publiques
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15112,Decentralisation and support to subnational government,Décentralisation et soutien aux administrations infranationales
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15113,Anti-corruption organisations and institutions,Organisations et institutions pour la lutte contre la corruption
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15114,Domestic revenue mobilisation,Mobilisation des ressources intérieures
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15125,Public Procurement,Marchés publics
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15130,Legal and judicial development,Développement des services légaux et judiciaires
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15142,Macroeconomic policy,Politique macroéconomique
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15150,Democratic participation and civil society,Participation démocratique et société civile
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15151,Elections,Élections
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15152,Legislatures and political parties,Assemblées législatives et partis politiques
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15153,Media and free flow of information,Médias et liberté de l'information
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15160,Human rights,Droits de la personne
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15170,"Women's rights organisations and movements, and government institutions",Organisations et mouvements de défense des droits des femmes et institutions gouvernementales
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15180,Ending violence against women and girls,Élimination de la violence à l'égard des femmes et des filles
+150,Government & Civil Society,Gouvernement & Société Civile,151,Government & Civil Society-general,Gouvernement & Société Civile-général,15190,"Facilitation of orderly, safe, regular and responsible migration and mobility","Faciliter la migration et la mobilité de façon ordonnée, sans danger, régulière et responsable"
+150,Government & Civil Society,Gouvernement & Société Civile,152,"Conflict, Peace & Security","Conflits, Paix et Sécurité",15210,Security system management and reform,Gestion et réforme des systèmes de sécurité
+150,Government & Civil Society,Gouvernement & Société Civile,152,"Conflict, Peace & Security","Conflits, Paix et Sécurité",15220,"Civilian peace-building, conflict prevention and resolution","Dispositifs civils de construction de la paix, et de prévention et de règlement des conflits"
+150,Government & Civil Society,Gouvernement & Société Civile,152,"Conflict, Peace & Security","Conflits, Paix et Sécurité",15230,Participation in international peacekeeping operations,Participation à des opérations internationales de maintien de la paix
+150,Government & Civil Society,Gouvernement & Société Civile,152,"Conflict, Peace & Security","Conflits, Paix et Sécurité",15240,Reintegration and SALW control,Réintégration et contrôle des armes légères et de petit calibre
+150,Government & Civil Society,Gouvernement & Société Civile,152,"Conflict, Peace & Security","Conflits, Paix et Sécurité",15250,Removal of land mines and explosive remnants of war,Enlèvement des mines terrestres et restes explosifs de guerre
+150,Government & Civil Society,Gouvernement & Société Civile,152,"Conflict, Peace & Security","Conflits, Paix et Sécurité",15261,Child soldiers (prevention and demobilisation),Enfants soldats (Prévention et démobilisation)
+160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,16010,Social Protection,Protection sociale
+160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,16020,Employment creation,Création d'emplois
+160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,16030,Housing policy and administrative management,Politique du logement et gestion administrative
+160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,16040,Low-cost housing,Logement à coût réduit
+160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,16050,Multisector aid for basic social services,Aide plurisectorielle pour les services sociaux de base
+160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,16061,Culture and recreation,Culture et loisirs
+160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,16062,Statistical capacity building,Renforcement des capacités statistiques
+160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,16063,Narcotics control,Lutte contre le trafic de drogues
+160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,16064,Social mitigation of HIV/AIDS,Atténuation de l'impact social du VIH/sida
+160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,16070,Labour rights,Droits du travail
+160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,160,Other Social Infrastructure & Services,Infrastructure et Services Sociaux Divers,16080,Social dialogue,Dialogue social
+210,Transport & Storage,Transports et Entreposage,210,Transport & Storage,Transports et Entreposage,21010,Transport policy and administrative management,Politique des transports et gestion administrative
+210,Transport & Storage,Transports et Entreposage,210,Transport & Storage,Transports et Entreposage,21020,Road transport,Transport routier
+210,Transport & Storage,Transports et Entreposage,210,Transport & Storage,Transports et Entreposage,21030,Rail transport,Transport ferroviaire
+210,Transport & Storage,Transports et Entreposage,210,Transport & Storage,Transports et Entreposage,21040,Water transport,Transport par voies d'eau
+210,Transport & Storage,Transports et Entreposage,210,Transport & Storage,Transports et Entreposage,21050,Air transport,Transport aérien
+210,Transport & Storage,Transports et Entreposage,210,Transport & Storage,Transports et Entreposage,21061,Storage,Stockage
+210,Transport & Storage,Transports et Entreposage,210,Transport & Storage,Transports et Entreposage,21081,Education and training in transport and storage,Education/formation dans les transports et le stockage
+220,Communications,Communications,220,Communications,Communications,22010,Communications policy and administrative management,Politique des communications et gestion administrative
+220,Communications,Communications,220,Communications,Communications,22020,Telecommunications,Télécommunications
+220,Communications,Communications,220,Communications,Communications,22030,Radio/television/print media,"Radio, télévision, presse écrite"
+220,Communications,Communications,220,Communications,Communications,22040,Information and communication technology (ICT),Technologies de l'information et de la communication (TIC)
+230,Energy,Energie,231,Energy Policy,Politique de l'énergie,23110,Energy policy and administrative management,Politique énergétique et gestion administrative
+230,Energy,Energie,231,Energy Policy,Politique de l'énergie,23181,Energy education/training,Éducation et formation dans le domaine de l'énergie
+230,Energy,Energie,231,Energy Policy,Politique de l'énergie,23182,Energy research,Recherche dans le domaine de l'énergie
+230,Energy,Energie,231,Energy Policy,Politique de l'énergie,23183,Energy conservation and demand-side efficiency,Économies d'énergie et efficacité du côté de la demande
+230,Energy,Energie,232,"Energy generation, renewable sources","Production d'électricité, sources renouvelables",23210,"Energy generation, renewable sources - multiple technologies","Production d'énergie, sources renouvelables - multiples technologies"
+230,Energy,Energie,232,"Energy generation, renewable sources","Production d'électricité, sources renouvelables",23220,Hydro-electric power plants,Centrales hydrauliques
+230,Energy,Energie,232,"Energy generation, renewable sources","Production d'électricité, sources renouvelables",23230,Solar energy for centralised grids,Energie solaire pour réseaux centralisés
+230,Energy,Energie,232,"Energy generation, renewable sources","Production d'électricité, sources renouvelables",23231,Solar energy for isolated grids and standalone systems,Energie solaire pour réseaux isolés et systèmes autonomes
+230,Energy,Energie,232,"Energy generation, renewable sources","Production d'électricité, sources renouvelables",23232,Solar energy - thermal applications,Energie solaire - usage thermique
+230,Energy,Energie,232,"Energy generation, renewable sources","Production d'électricité, sources renouvelables",23240,Wind energy,Énergie éolienne
+230,Energy,Energie,232,"Energy generation, renewable sources","Production d'électricité, sources renouvelables",23250,Marine energy,Énergie marine
+230,Energy,Energie,232,"Energy generation, renewable sources","Production d'électricité, sources renouvelables",23260,Geothermal energy,Énergie géothermique
+230,Energy,Energie,232,"Energy generation, renewable sources","Production d'électricité, sources renouvelables",23270,Biofuel-fired power plants,Centrales à biocombustibles
+230,Energy,Energie,233,"Energy generation, non-renewable sources","Production d'électricité, sources non renouvelables",23310,"Energy generation, non-renewable sources, unspecified","Production d'énergie, sources non renouvelables - non spécifié"
+230,Energy,Energie,233,"Energy generation, non-renewable sources","Production d'électricité, sources non renouvelables",23320,Coal-fired electric power plants,Centrales au charbon
+230,Energy,Energie,233,"Energy generation, non-renewable sources","Production d'électricité, sources non renouvelables",23330,Oil-fired electric power plants,Centrales au fioul
+230,Energy,Energie,233,"Energy generation, non-renewable sources","Production d'électricité, sources non renouvelables",23340,Natural gas-fired electric power plants,Centrales au gaz naturel
+230,Energy,Energie,233,"Energy generation, non-renewable sources","Production d'électricité, sources non renouvelables",23350,Fossil fuel electric power plants with carbon capture and storage (CCS),Centrales thermiques classiques avec captage et stockage du carbone (CSC)
+230,Energy,Energie,233,"Energy generation, non-renewable sources","Production d'électricité, sources non renouvelables",23360,Non-renewable waste-fired electric power plants,"Production d'électricité, déchets non renouvelables"
+230,Energy,Energie,234,Hybrid energy plants,Centrales hybrides,23410,Hybrid energy electric power plants,Centrales hybrides
+230,Energy,Energie,235,Nuclear energy plants,Centrales nucléaires,23510,Nuclear energy electric power plants and nuclear safety,Centrales nucléaires et sûreté nucléaire
+230,Energy,Energie,236,Energy distribution,Distribution de l'énergie,23610,Heat plants,Production de chaleur seule
+230,Energy,Energie,236,Energy distribution,Distribution de l'énergie,23620,District heating and cooling,Réseaux urbains de chaleur et de froid
+230,Energy,Energie,236,Energy distribution,Distribution de l'énergie,23630,Electric power transmission and distribution (centralised grids),Transport et distribution d'électricité (réseaux centralisés)
+230,Energy,Energie,236,Energy distribution,Distribution de l'énergie,23631,Electric power transmission and distribution (isolated mini-grids),Transport et distribution d'électricité (petits réseaux isolés)
+230,Energy,Energie,236,Energy distribution,Distribution de l'énergie,23640,Retail gas distribution,Distribution au détail de gaz
+230,Energy,Energie,236,Energy distribution,Distribution de l'énergie,23641,Retail distribution of liquid or solid fossil fuels,Distribution au détail de carburants fossiles liquide ou solides
+230,Energy,Energie,236,Energy distribution,Distribution de l'énergie,23642,Electric mobility infrastructures,Infrastructures électriques à l'usage de la mobilité
+240,Banking & Financial Services,Banques et Services Financiers,240,Banking & Financial Services,Banques et Services Financiers,24010,Financial policy and administrative management,Politique des finances et gestion administrative
+240,Banking & Financial Services,Banques et Services Financiers,240,Banking & Financial Services,Banques et Services Financiers,24020,Monetary institutions,Institutions monétaires
+240,Banking & Financial Services,Banques et Services Financiers,240,Banking & Financial Services,Banques et Services Financiers,24030,Formal sector financial intermediaries,Intermédiaires financiers officiels
+240,Banking & Financial Services,Banques et Services Financiers,240,Banking & Financial Services,Banques et Services Financiers,24040,Informal/semi-formal financial intermediaries,Intermédiaires financiers du secteur informel et semi formel
+240,Banking & Financial Services,Banques et Services Financiers,240,Banking & Financial Services,Banques et Services Financiers,24050,"Remittance facilitation, promotion and optimisation","Facilitation, promotion et optimisation des transferts de fonds des migrants"
+240,Banking & Financial Services,Banques et Services Financiers,240,Banking & Financial Services,Banques et Services Financiers,24081,Education/training in banking and financial services,Education/formation bancaire et dans les services financiers
+250,Business & Other Services,Entreprises et Autres Services,250,Business & Other Services,Entreprises et Autres Services,25010,Business policy and administration,Politique commerciale et administration
+250,Business & Other Services,Entreprises et Autres Services,250,Business & Other Services,Entreprises et Autres Services,25020,Privatisation,Privatisation
+250,Business & Other Services,Entreprises et Autres Services,250,Business & Other Services,Entreprises et Autres Services,25030,Business development services,Business development services
+250,Business & Other Services,Entreprises et Autres Services,250,Business & Other Services,Entreprises et Autres Services,25040,Responsible business conduct,Code de conduite responsable
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31110,Agricultural policy and administrative management,Politique agricole et gestion administrative
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31120,Agricultural development,Développement agricole
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31130,Agricultural land resources,Ressources en terres cultivables
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31140,Agricultural water resources,Ressources en eau à usage agricole
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31150,Agricultural inputs,Produits à usage agricole
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31161,Food crop production,Production agricole
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31162,Industrial crops/export crops,Production industrielle de récoltes/récoltes destinées à l'exportation
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31163,Livestock,Bétail
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31164,Agrarian reform,Réforme agraire
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31165,Agricultural alternative development,Développement agricole alternatif
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31166,Agricultural extension,Vulgarisation agricole
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31181,Agricultural education/training,Education et formation dans le domaine agricole
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31182,Agricultural research,Recherche agronomique
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31191,Agricultural services,Services agricoles
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31192,Plant and post-harvest protection and pest control,"Protection des plantes et des récoltes, lutte antiacridienne"
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31193,Agricultural financial services,Services financiers agricoles
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31194,Agricultural co-operatives,Coopératives agricoles
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",311,Agriculture,Agriculture,31195,Livestock/veterinary services,Services vétérinaires (bétail)
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",312,Forestry,Sylviculture,31210,Forestry policy and administrative management,Politique de la sylviculture et gestion administrative
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",312,Forestry,Sylviculture,31220,Forestry development,Développement sylvicole
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",312,Forestry,Sylviculture,31261,Fuelwood/charcoal,Reboisement (bois de chauffage et charbon de bois)
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",312,Forestry,Sylviculture,31281,Forestry education/training,Education et formation en sylviculture
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",312,Forestry,Sylviculture,31282,Forestry research,Recherche en sylviculture
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",312,Forestry,Sylviculture,31291,Forestry services,Services sylvicoles
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",313,Fishing,Pêche,31310,Fishing policy and administrative management,Politique de la pêche et gestion administrative
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",313,Fishing,Pêche,31320,Fishery development,Développement de la pêche
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",313,Fishing,Pêche,31381,Fishery education/training,Education et formation dans le domaine de la pêche
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",313,Fishing,Pêche,31382,Fishery research,Recherche dans le domaine de la pêche
+310,"Agriculture, Forestry, Fishing","Agriculture, Sylviculture, Pêche",313,Fishing,Pêche,31391,Fishery services,Services dans le domaine de la pêche
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32110,Industrial policy and administrative management,Politique de l'industrie et gestion administrative
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32120,Industrial development,Développement industriel
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32130,Small and medium-sized enterprises (SME) development,Développement des Petites et moyennes entreprises (PME)
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32140,Cottage industries and handicraft,Artisanat
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32161,Agro-industries,Agro-industries
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32162,Forest industries,Industries forestières
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32163,"Textiles, leather and substitutes","Industrie textile, cuirs et produits similaires"
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32164,Chemicals,Produits chimiques
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32165,Fertilizer plants,Production d'engrais chimiques
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32166,Cement/lime/plaster,"Ciment, chaux et plâtre"
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32167,Energy manufacturing (fossil fuels),Fabrication d'énergie (combustibles fossiles)
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32168,Pharmaceutical production,Produits pharmaceutiques
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32169,Basic metal industries,Industrie métallurgique de base
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32170,Non-ferrous metal industries,Industries des métaux non ferreux
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32171,Engineering,Construction mécanique et électrique
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32172,Transport equipment industry,Matériel de transport
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32173,Modern biofuels manufacturing,Production de biocarburants modernes
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32174,Clean cooking appliances manufacturing,Production d'appareils de cuisine propres
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",321,Industry,Industries Manufacturières,32182,Technological research and development,Recherche et développement technologiques
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",322,Mineral Resources & Mining,Industries Extractives,32210,Mineral/mining policy and administrative management,Politique de l'industrie extractive et gestion administrative
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",322,Mineral Resources & Mining,Industries Extractives,32220,Mineral prospection and exploration,Prospection et exploration des minerais
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",322,Mineral Resources & Mining,Industries Extractives,32261,Coal,Charbon
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",322,Mineral Resources & Mining,Industries Extractives,32262,Oil and gas (upstream),Pétrole et gaz (en amont)
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",322,Mineral Resources & Mining,Industries Extractives,32263,Ferrous metals,Métaux ferreux
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",322,Mineral Resources & Mining,Industries Extractives,32264,Nonferrous metals,Métaux non ferreux
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",322,Mineral Resources & Mining,Industries Extractives,32265,Precious metals/materials,Métaux et minerais précieux
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",322,Mineral Resources & Mining,Industries Extractives,32266,Industrial minerals,Minerais industriels
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",322,Mineral Resources & Mining,Industries Extractives,32267,Fertilizer minerals,Engrais minéraux
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",322,Mineral Resources & Mining,Industries Extractives,32268,Offshore minerals,Ressources des fonds marins
+320,"Industry, Mining, Construction","Industries Manufacturières, Extractives, Construct",323,Construction,Construction,32310,Construction policy and administrative management,Politique de la construction et gestion administrative
+331,Trade Policies & Regulations,Politique Commerciale et Réglementations,331,Trade Policies & Regulations,Politique Commerciale et Réglementations,33110,Trade policy and administrative management,Politique commerciale et gestion administrative
+331,Trade Policies & Regulations,Politique Commerciale et Réglementations,331,Trade Policies & Regulations,Politique Commerciale et Réglementations,33120,Trade facilitation,Facilitation du commerce
+331,Trade Policies & Regulations,Politique Commerciale et Réglementations,331,Trade Policies & Regulations,Politique Commerciale et Réglementations,33130,Regional trade agreements (RTAs),Accords commerciaux régionaux
+331,Trade Policies & Regulations,Politique Commerciale et Réglementations,331,Trade Policies & Regulations,Politique Commerciale et Réglementations,33140,Multilateral trade negotiations,Négociations commerciales multilatérales
+331,Trade Policies & Regulations,Politique Commerciale et Réglementations,331,Trade Policies & Regulations,Politique Commerciale et Réglementations,33150,Trade-related adjustment,Ajustement lié au commerce
+331,Trade Policies & Regulations,Politique Commerciale et Réglementations,331,Trade Policies & Regulations,Politique Commerciale et Réglementations,33181,Trade education/training,Education/formation dans le domaine du commerce
+332,Tourism,Tourisme,332,Tourism,Tourisme,33210,Tourism policy and administrative management,Politique du tourisme et gestion administrative
+410,General Environment Protection,Protection de l'Environnement Général,410,General Environment Protection,Protection de l'Environnement Général,41010,Environmental policy and administrative management,Politique de l'environnement et gestion administrative
+410,General Environment Protection,Protection de l'Environnement Général,410,General Environment Protection,Protection de l'Environnement Général,41020,Biosphere protection,Protection de la biosphère
+410,General Environment Protection,Protection de l'Environnement Général,410,General Environment Protection,Protection de l'Environnement Général,41030,Biodiversity,Diversité biologique
+410,General Environment Protection,Protection de l'Environnement Général,410,General Environment Protection,Protection de l'Environnement Général,41040,Site preservation,Protection des sites
+410,General Environment Protection,Protection de l'Environnement Général,410,General Environment Protection,Protection de l'Environnement Général,41081,Environmental education/training,Education et formation environnementales
+410,General Environment Protection,Protection de l'Environnement Général,410,General Environment Protection,Protection de l'Environnement Général,41082,Environmental research,Recherche environnementale
+430,Other Multisector,Autres Multisecteurs,430,Other Multisector,Autres Multisecteurs,43010,Multisector aid,Aide plurisectorielle
+430,Other Multisector,Autres Multisecteurs,430,Other Multisector,Autres Multisecteurs,43030,Urban development and management,Développement et gestion urbaine
+430,Other Multisector,Autres Multisecteurs,430,Other Multisector,Autres Multisecteurs,43040,Rural development,Développement rural
+430,Other Multisector,Autres Multisecteurs,430,Other Multisector,Autres Multisecteurs,43050,Non-agricultural alternative development,Développement alternatif non agricole
+430,Other Multisector,Autres Multisecteurs,430,Other Multisector,Autres Multisecteurs,43060,Disaster Risk Reduction,Réduction des risques de catastrophe
+430,Other Multisector,Autres Multisecteurs,430,Other Multisector,Autres Multisecteurs,43071,Food security policy and administrative management,Politique de sécurité alimentaire et gestion administrative
+430,Other Multisector,Autres Multisecteurs,430,Other Multisector,Autres Multisecteurs,43072,Household food security programmes,Programmes de sécurité alimentaire des ménages
+430,Other Multisector,Autres Multisecteurs,430,Other Multisector,Autres Multisecteurs,43073,Food safety and quality,Sécurité et qualité alimentaire
+430,Other Multisector,Autres Multisecteurs,430,Other Multisector,Autres Multisecteurs,43081,Multisector education/training,Education et formation plurisectorielles
+430,Other Multisector,Autres Multisecteurs,430,Other Multisector,Autres Multisecteurs,43082,Research/scientific institutions,Institutions scientifiques et de recherche
+510,General Budget Support,Soutien Budgétaire,510,General Budget Support,Soutien Budgétaire,51010,General budget support-related aid,Aide relative au soutien budgétaire général
+520,Development Food Assistance,Aide Alimentaire Dévelopmentale,520,Development Food Assistance,Aide Alimentaire Dévelopmentale,52010,Food assistance,Assistance alimentaire
+530,Other Commodity Assistance,"Aide sous forme de Produits, Autre",530,Other Commodity Assistance,"Aide sous forme de Produits, Autre",53030,Import support (capital goods),Subventions à l'importation (biens d'équipement)
+530,Other Commodity Assistance,"Aide sous forme de Produits, Autre",530,Other Commodity Assistance,"Aide sous forme de Produits, Autre",53040,Import support (commodities),Subventions à l'importation (produits)
+600,Action Relating to Debt,Actions se Rapportant a la Dette,600,Action Relating to Debt,Actions se Rapportant a la Dette,60010,Action relating to debt,Actions se rapportant à la dette
+600,Action Relating to Debt,Actions se Rapportant a la Dette,600,Action Relating to Debt,Actions se Rapportant a la Dette,60020,Debt forgiveness,Annulation de la dette
+600,Action Relating to Debt,Actions se Rapportant a la Dette,600,Action Relating to Debt,Actions se Rapportant a la Dette,60030,Relief of multilateral debt,Allégement de la dette multilatérale
+600,Action Relating to Debt,Actions se Rapportant a la Dette,600,Action Relating to Debt,Actions se Rapportant a la Dette,60040,Rescheduling and refinancing,Rééchelonnement d'échéances et refinancement
+600,Action Relating to Debt,Actions se Rapportant a la Dette,600,Action Relating to Debt,Actions se Rapportant a la Dette,60061,Debt for development swap,Echange de dette à des fins de développement
+600,Action Relating to Debt,Actions se Rapportant a la Dette,600,Action Relating to Debt,Actions se Rapportant a la Dette,60062,Other debt swap,Autres échanges de dette
+600,Action Relating to Debt,Actions se Rapportant a la Dette,600,Action Relating to Debt,Actions se Rapportant a la Dette,60063,Debt buy-back,Rachat de la dette
+720,Emergency Response,Intervention d'Urgence,720,Emergency Response,Intervention d'Urgence,72010,Material relief assistance and services,Assistance matérielle et services d'urgence
+720,Emergency Response,Intervention d'Urgence,720,Emergency Response,Intervention d'Urgence,72040,Emergency food assistance,Assistance alimentaire d'urgence
+720,Emergency Response,Intervention d'Urgence,720,Emergency Response,Intervention d'Urgence,72050,Relief co-ordination and support services,Coordination des secours et services de soutien
+730,Reconstruction Relief & Rehabilitation,Reconstruction & Réhabilitation,730,Reconstruction Relief & Rehabilitation,Reconstruction & Réhabilitation,73010,Immediate post-emergency reconstruction and rehabilitation,Reconstruction et réhabilitation immédiate post-urgence
+740,Disaster Prevention & Preparedness,Prévention catastrophes/Préparation à leur survenue,740,Disaster Prevention & Preparedness,Prévention catastrophes/Préparation à leur survenue,74020,Multi-hazard response preparedness,Préparation aux interventions multi-risques
+910,Administrative Costs of Donors,Frais Administratifs des Donneurs,910,Administrative Costs of Donors,Frais Administratifs des Donneurs,91010,Administrative costs (non-sector allocable),Frais administratifs (non alloués par secteur)
+930,Refugees in Donor Countries,Refugiés dans les Pays Donneurs,930,Refugees in Donor Countries,Refugiés dans les Pays Donneurs,93010,Refugees/asylum seekers  in donor countries (non-sector allocable),Refugiés/demandeurs d'asile dans les pays donneurs (non alloués)
+998,Unallocated / Unspecified,Non Affecté / Non Specifié,998,Unallocated / Unspecified,Non Affecté / Non Specifié,99810,Sectors not specified,Secteur non spécifié
+998,Unallocated / Unspecified,Non Affecté / Non Specifié,998,Unallocated / Unspecified,Non Affecté / Non Specifié,99820,Promotion of development awareness (non-sector allocable),Sensibilisation au développement (non alloués par secteur)
