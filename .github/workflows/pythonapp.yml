@@ -3,7 +3,7 @@ name: Get DAC CRS Purpose Code Groups
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron:  '0 1 * * *'
 jobs:
