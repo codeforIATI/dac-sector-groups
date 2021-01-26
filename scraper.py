@@ -1,4 +1,4 @@
-from os import environ, remove
+from os import environ, makedirs
 environ['SCRAPERWIKI_DATABASE_NAME'] = 'sqlite:///data.sqlite'
 import scraperwiki
 import requests
@@ -76,7 +76,8 @@ class CodesGetter():
 
 def run():
     codes_groups = CodesGetter(doc_crs_codes).codes
-    with open("sectors_groups.csv", 'w') as csv_f:
+    makedirs("output", exist_ok=True)
+    with open(os.path.join("output", "sectors_groups.csv"), 'w') as csv_f:
         csvwriter = csv.DictWriter(csv_f, fieldnames=[
             'group_code', 'group_name',
             'category_code', 'category_name',
@@ -85,6 +86,7 @@ def run():
         csvwriter.writeheader()
         for code in codes_groups:
             csvwriter.writerow(code)
-        scraperwiki.sqlite.save(unique_keys=['code'], data=codes_groups)
+        if os.environ.get("GITHUB_PAGES", False) is False:
+            scraperwiki.sqlite.save(unique_keys=['code'], data=codes_groups)
 
 run()
