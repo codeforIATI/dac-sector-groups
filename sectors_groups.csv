@@ -1,4 +1,4 @@
-code,name_en,name_fr,category_code,category_name_en,category_name_fr,sector_code,sector_name_en,sector_name_fr
+group_code,group_name_en,group_name_fr,category_code,category_name_en,category_name_fr,code,name_en,name_fr
 110,Education,Education,111,"Education, Level Unspecified","Education, Niveau non spécifié",11110,Education policy and administrative management,Politique de l'éducation et gestion administrative
 110,Education,Education,111,"Education, Level Unspecified","Education, Niveau non spécifié",11120,Education facilities and training,Equipements scolaires et formation
 110,Education,Education,111,"Education, Level Unspecified","Education, Niveau non spécifié",11130,Teacher training,Formation des enseignants
