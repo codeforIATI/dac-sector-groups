@@ -97,29 +97,29 @@ def run():
     os.makedirs("output", exist_ok=True)
     with open(os.path.join("output", "sectors_groups.csv"), 'w') as csv_f:
         csvwriter = csv.DictWriter(csv_f, fieldnames=[
-            'code', 'name_en', 'name_fr',
+            'group_code', 'group_name_en', 'group_name_fr',
             'category_code', 'category_name_en',
             'category_name_fr',
-            'sector_code', 'sector_name_en',
-            'sector_name_fr'
+            'code', 'name_en',
+            'name_fr'
         ])
         csvwriter.writeheader()
         for code in codes_groups:
             code_fr = dict_groups_fr[code['sector_code']]
             row = {
-                'code': code['group_code'],
-                'name_en': code['group_name'],
-                'name_fr': code_fr['group_name'],
+                'group_code': code['group_code'],
+                'group_name_en': code['group_name'],
+                'group_name_fr': code_fr['group_name'],
                 'category_code': code['category_code'],
                 'category_name_en': code['category_name'],
                 'category_name_fr': code_fr['category_name'],
-                'sector_code': code['sector_code'],
-                'sector_name_en': code['sector_name'],
-                'sector_name_fr': code_fr['sector_name']
+                'code': code['sector_code'],
+                'name_en': code['sector_name'],
+                'name_fr': code_fr['sector_name']
             }
             csvwriter.writerow(row)
         if os.environ.get("GITHUB_PAGES", False) is False:
-            scraperwiki.sqlite.save(unique_keys=['code'], data=codes_groups)
+            scraperwiki.sqlite.save(unique_keys=['sector_code'], data=codes_groups)
     print("Done")
 
 run()
