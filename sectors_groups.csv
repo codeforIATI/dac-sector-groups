@@ -4,10 +4,13 @@ group_code,group_name_en,group_name_fr,category_code,category_name_en,category_n
 110,Education,Education,111,"Education, Level Unspecified","Education, Niveau non spécifié",11130,Teacher training,Formation des enseignants
 110,Education,Education,111,"Education, Level Unspecified","Education, Niveau non spécifié",11182,Educational research,Recherche en éducation
 110,Education,Education,112,Basic Education,Education de Base,11220,Primary education,Enseignement primaire
-110,Education,Education,112,Basic Education,Education de Base,11230,Basic life skills for youth and adults,Education pour une meilleure qualité de vie pour les jeunes et les adultes
+110,Education,Education,112,Basic Education,Education de Base,11230,Basic life skills for adults,Education pour une meilleure qualité de vie pour les adultes
+110,Education,Education,112,Basic Education,Education de Base,11231,Basic life skills for youth,Éducation pour une meilleure qualité de vie pour les jeunes
+110,Education,Education,112,Basic Education,Education de Base,11232,Primary education equivalent for adults,Education primaire des adultes
 110,Education,Education,112,Basic Education,Education de Base,11240,Early childhood education,Education de la petite enfance
 110,Education,Education,112,Basic Education,Education de Base,11250,School feeding,Alimentation à l'école
-110,Education,Education,113,Secondary Education,Education Secondaire,11320,Secondary education,Enseignement secondaire
+110,Education,Education,112,Basic Education,Education de Base,11260,Lower secondary education,Premier cycle de l'enseignement secondaire
+110,Education,Education,113,Secondary Education,Education Secondaire,11320,Upper Secondary Education (modified and includes data from 11322),Enseignement secondaire supérieur (modifié et comprend les données de 11322)
 110,Education,Education,113,Secondary Education,Education Secondaire,11330,Vocational training,Formation professionnelle
 110,Education,Education,114,Post-Secondary Education,Education Post Secondaire,11420,Higher education,Enseignement supérieur
 110,Education,Education,114,Post-Secondary Education,Education Post Secondaire,11430,Advanced technical and managerial training,Formation technique supérieure de gestion
