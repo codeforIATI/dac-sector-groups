@@ -25,6 +25,7 @@ group_code,group_name_en,group_name_fr,category_code,category_name_en,category_n
 120,Health,Santé,122,Basic Health,Santé de Base,12261,Health education,Education sanitaire
 120,Health,Santé,122,Basic Health,Santé de Base,12262,Malaria control,Lutte contre le paludisme
 120,Health,Santé,122,Basic Health,Santé de Base,12263,Tuberculosis control,Lutte contre la tuberculose
+120,Health,Santé,122,Basic Health,Santé de Base,12264,COVID-19 control,Lutte contre la COVID-19
 120,Health,Santé,122,Basic Health,Santé de Base,12281,Health personnel development,Formation de personnel de santé
 120,Health,Santé,123,Non-communicable diseases (NCDs),Maladies non-transmissibles (MNT),12310,"NCDs control, general","Lutte contre les MNT, général"
 120,Health,Santé,123,Non-communicable diseases (NCDs),Maladies non-transmissibles (MNT),12320,Tobacco use control,Lutte contre l'usage du tabac
