@@ -1,28 +1,27 @@
 import os
 os.environ['SCRAPERWIKI_DATABASE_NAME'] = 'sqlite:///data.sqlite'
-import scraperwiki
-import requests
-from lxml import html
-import re
-import csv
+import scraperwiki  # noqa: E402
+import requests  # noqa: E402
+from lxml import html  # noqa: E402
+import re  # noqa: E402
+import csv  # noqa: E402
 
-OECD_STATS_URL="https://stats.oecd.org/"
-CRS_URL="https://stats.oecd.org/viewhtml.aspx?datasetcode=CRS1&lang={}"
-CRS_CODES_URL="https://stats.oecd.org/ModalDimWebTree.aspx?DimensionCode=SECTOR&SubSessionId={}&Random=0.2017416214402572"
+OECD_STATS_URL = "https://stats.oecd.org/"
+CRS_URL = "https://stats.oecd.org/viewhtml.aspx?datasetcode=CRS1&lang={}"
+CRS_CODES_URL = "https://stats.oecd.org/ModalDimWebTree.aspx?DimensionCode=SECTOR&SubSessionId={}&Random=0.2017416214402572"
 
 
 class CodesGetter():
     def get_doc(self):
         s = requests.Session()
         s.headers.update({'User-Agent': 'Mozilla/5.0'})
-        req = s.get(OECD_STATS_URL)
+        s.get(OECD_STATS_URL)
         req_crs = s.get(CRS_URL.format(self.lang))
         doc = html.fromstring(req_crs.text)
         jssid = doc.xpath('//input[@name="_ctl0:_ctl0:cphCentre:ContentPlaceHolder1:TBSubSessionId"]')[0].get('value')
-        req_crs_codes=s.get(CRS_CODES_URL.format(jssid))
+        req_crs_codes = s.get(CRS_CODES_URL.format(jssid))
         doc_crs_codes = html.fromstring(req_crs_codes.text)
         return doc_crs_codes
-
 
     def __init__(self, lang='en'):
         self.lang = lang
@@ -31,22 +30,19 @@ class CodesGetter():
         self.codes = []
         self.iterate_categories(self.top_categories, level=1)
 
-
     def clean_name(self, name_text):
-        match = re.match("(\d*): (\w*\.\d*\.\w*\.) (.*), Total", name_text)
+        match = re.match(r"(\d*): (\w*\.\d*\.\w*\.) (.*), Total", name_text)
         if match:
             return match.groups()[2]
-        match = re.match("(\d*): (\w*\.?\d*\.) (.*), Total", name_text)
+        match = re.match(r"(\d*): (\w*\.?\d*\.) (.*), Total", name_text)
         if match:
             return match.groups()[2]
-        match = re.match("(\d*): (.*), Total", name_text)
+        match = re.match(r"(\d*): (.*), Total", name_text)
         return match.groups()[1]
-
 
     def clean_sector_name(self, name_text):
-        match = re.match("(\d*): (.*)", name_text)
+        match = re.match(r"(\d*): (.*)", name_text)
         return match.groups()[1]
-
 
     def get_relevant_parent(self, level, parent2_code, parent3_code, highest=True):
         if level == 5:
@@ -56,7 +52,6 @@ class CodesGetter():
         else:
             return parent2_code
 
-
     def iterate_categories(self, categories, level, parent_code={}, parent2_code={}, parent3_code={}):
         if parent2_code != {}:
             parent3_code = parent2_code
@@ -65,11 +60,12 @@ class CodesGetter():
         for category in categories:
             title = category.get("title")
             igtag = category.get("igtag")
-            if title == None: continue
+            if title is None:
+                continue
             category_id = "M_{}".format(category.get("id"))
             child_categories = self.doc.xpath("//div[@id='{}']/div".format(category_id))
             parent_code = {'code': igtag, 'name': title}
-            if len(child_categories)>0:
+            if len(child_categories) > 0:
                 self.iterate_categories(child_categories, level+1, parent_code, parent2_code, parent3_code)
             else:
                 relevant_parent = self.get_relevant_parent(level, parent2_code, parent3_code)
@@ -121,5 +117,6 @@ def run():
         if os.environ.get("GITHUB_PAGES", False) is False:
             scraperwiki.sqlite.save(unique_keys=['sector_code'], data=codes_groups)
     print("Done")
+
 
 run()
